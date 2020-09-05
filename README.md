@@ -36,6 +36,22 @@ sen kan du även fippla runt med lite andra parametrar om du känner dig modig.
 
 6. Kör koden! Voilá. Tacka mig senare.
 
+### Credits och användningsrättigheter
+
+#### Credits för standardbilder
+
+(gäller endast om du använder standard-bildarkivet)
+
+Bild på SSIS: 
+
+Mini-ikoner för rum:
+
+**Zelda, Tetris, Space Invaders, Schack, Snake, Pac-Man, Go**
+
+MaterialDesignIcons
+
+**Donkey Kong, Plockepinn, Tetris**
+
 
 ### Mini-FAQ 
 
