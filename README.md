@@ -16,10 +16,34 @@ har rast. Skriptet kan även detektera om du äter lunch.
 
 - Hämtar endast meny och schema en gång per dag för att avlasta SSIS servrar.
 
+### Installation
+
+Följ dessa steg så är du igång på nolltid.
+
+1. Om du inte redan har Python 3, ladda ner det. Kika [här](https://realpython.com/installing-python/)  för vidare hjälp med installationen.
+
+2. Ladda ner detta projekt till din dator. Det kommer förmodligen ner som en .zip-fil - extrahera (packa upp) den.
+
+3. Vi kör det jobbiga först - kommandotolken. Öppna en ny kommandotolk *i den mappen du nyss laddat ner* (detta är viktigt),
+och skriv kommandot: `pip install -r requirements.txt`. Detta kommer installera allt annat som behövs för projektet.
+
+Nu kommer det sista steget i konfigurationen - att konfigurera så att rätt schema används. Det är typ den enda konfigurationen som du **bör** göra,
+sen kan du även fippla runt med lite andra parametrar om du känner dig modig. 
+
+4. Öppna filen "config.ini" i undermappen "conf".
+
+5. Ändra värdet under "schedule_name" till namnet på din klass, till exempel "``te20a`" eller `te18c`. Ja, du fattar.
+
+6. Kör koden! Voilá. Tacka mig senare.
+
+
 ### Mini-FAQ 
 
 #### Applikationsrelaterat:
 
+###### Appen funkar inte!
+
+DMa mig på Discord så löser vi det. Beskriv gärna mer än "Funkar inte". Vad händer exakt?
 
 #### Kodrelaterat:
 
