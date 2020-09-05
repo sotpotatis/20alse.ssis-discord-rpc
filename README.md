@@ -46,7 +46,7 @@ Bild på SSIS:
 
 Mini-ikoner för rum:
 
-**Zelda, Tetris, Space Invaders, Schack, Snake, Pac-Man, Go**
+**Zelda, Space Invaders, Schack, Snake, Pac-Man, Go, Green Corner**
 
 MaterialDesignIcons
 
