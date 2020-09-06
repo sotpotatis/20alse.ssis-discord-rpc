@@ -32,7 +32,7 @@ sen kan du även fippla runt med lite andra parametrar om du känner dig modig.
 
 4. Öppna filen "config.ini" i undermappen "conf".
 
-5. Ändra värdet under "schedule_name" till namnet på din klass, till exempel "``te20a`" eller `te18c`. Ja, du fattar.
+5. Ändra värdet under "schedule_name" till namnet på din klass, till exempel "`te20a`" eller `te18c`. Ja, du fattar.
 
 6. Kör koden! Voilá. Tacka mig senare.
 
@@ -70,3 +70,9 @@ Jag har flera hemsidor med över 1000 klick om dagen som helt har Python som bac
 ##### Grr, vet du inte om Game Engine???
 
 Jag känner till att Discord börjat med en ny "Game Engine" för custom status, men det verkar inte finnas stabilt stöd för det i något Python-bibliotek än. Då det bara är ett par rader kod som uppdaterar statusen så kommer jag ändra detta så fort det finns tillförlitligt stöd. Har jag tid kanske jag skriver en egen wrapper, men jag har hittat en i Python som är i beta.
+
+### Feature-wishlist
+
+- Visa lunchen från Eatery som status när man äter lunch
+
+- Gör det möjligt att konfigurera appen via ett webbgränsnitt
