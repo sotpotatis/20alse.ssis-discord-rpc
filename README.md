@@ -50,10 +50,11 @@ Mini-ikoner för rum:
 
 MaterialDesignIcons
 
-**Donkey Kong, Plockepinn, Tetris**
+**Donkey Kong, Plockepinn, Tetris, Domino**
 
-Plocepinn: Noto Emoji
+Plockepinn: Noto Emoji
 
+Domino: PublicDomainVectors/Openclipart
 
 ### Mini-FAQ 
 
