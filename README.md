@@ -52,6 +52,8 @@ MaterialDesignIcons
 
 **Donkey Kong, Plockepinn, Tetris**
 
+Plocepinn: Noto Emoji
+
 
 ### Mini-FAQ 
 
